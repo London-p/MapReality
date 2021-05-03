@@ -1,5 +1,4 @@
-# RealityPicker
-SwiftUI, ARKit
+
 
 
 Watch gif for demo.
